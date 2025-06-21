@@ -11,7 +11,7 @@ I’m an **AI Engineer Consultant** specialising in **Agentic AI** and the **Mod
 ## Highlight Projects
 I’ve been building with MCP and agentic AI—here are some key repos:
 
-- **gene_mcp** – A Model Context Protocol server for genetic analysis using NVIDIA NIMs (NVIDIA AgentIQ Hackathon 2025) :contentReference[oaicite:1]{index=1}  
+- **gene_mcp** – A Model Context Protocol server for genetic analysis using NVIDIA NIMs (NVIDIA AgentIQ Hackathon 2025)
 - **more to be added**
 
 ## 🌐 Tech Stack
