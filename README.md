@@ -11,6 +11,7 @@ I’m an **AI Engineer Consultant** specialising in **Agentic AI** and the **Mod
 ## Highlight Projects
 I’ve been building with MCP and agentic AI—here are some key repos:
 
+- **mcp_quick_start_py** - A quickstart template to enable you to build MCP tools straightaway, either run locally with uv or with docker.
 - **gene_mcp** – A Model Context Protocol server for genetic analysis using DNA files
 - **more to be added**
 
