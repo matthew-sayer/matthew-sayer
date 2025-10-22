@@ -18,7 +18,7 @@ I’ve been building with MCP and agentic AI—here are some key repos:
 
 ## 🌐 Tech Stack
 - **Main Language**: Python
-- **Additional Languages**: DAX, SQL, Front-end (JS, CSS, HTML), Groovy
+- **Additional Languages**: DAX, SQL, Front-end (JS, CSS, HTML), Groovy, Rust
 - **Platforms**: Power BI, MS Fabric 
 - **AI & ML**: Soundhound Amelia, Nvidia AgentIQ and NIMs, IBM WatsonX, Omilia OCP, NICE CXOne, Kore.ai
 - **Cloud & DevOps**: Azure, Docker
